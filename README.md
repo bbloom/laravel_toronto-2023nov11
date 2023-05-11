@@ -4,7 +4,7 @@
 - washrooms
 - food & beverages sponsored by Maple
 - Laravel Toronto: [first meet-up in 2014](https://www.meetup.com/laravel-toronto/events/147045302/)
-- [Laravel Check-up at Maple Online Health](https://www.meetup.com/laravel-toronto/events/288885223/)
+- [first meet-up at Maple: Laravel Check-up at Maple Online Health](https://www.meetup.com/laravel-toronto/events/288885223/)
 - quarterly "events"
 
 ---
