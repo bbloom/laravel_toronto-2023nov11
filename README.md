@@ -6,8 +6,8 @@
 - food & beverages sponsored by Maple Online Health
 - [Maple's first meet-up: Laravel Check-up at Maple Online Health](https://www.meetup.com/laravel-toronto/events/288885223/)
 - Laravel Toronto's [first meet-up](https://www.meetup.com/laravel-toronto/events/147045302/) 10 years ago 
-  -- note the "local pub"
-  -- SoapBoxHQ 
+  - note the "local pub"
+  - SoapBoxHQ 
 
 ---
 [Laravel News](https://laravel-news.com)
