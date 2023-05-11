@@ -12,6 +12,8 @@
 ---
 [Laravel News](https://laravel-news.com)
 
+[PHP Tek Conference, Chicago]](https://tek.phparch.com)
+
 
 ---
 - introductions
