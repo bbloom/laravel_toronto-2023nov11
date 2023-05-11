@@ -1,7 +1,7 @@
 # Laravel Toronto meet-up, May 11/2023, notes
 
 
----
+
 - washrooms
 - food & beverages sponsored by Maple Online Health
 - [Maple's first meet-up: Laravel Check-up at Maple Online Health](https://www.meetup.com/laravel-toronto/events/288885223/)
